@@ -2,6 +2,10 @@
 
 A Jupyter notebook that mixes Python3 and R.
 
+## Example Notebook
+
+https://github.com/dmil/jupyter-quickstart/blob/master/notebook.ipynb
+
 ## Quickstart
 
 ```

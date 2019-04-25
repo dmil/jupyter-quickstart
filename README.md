@@ -11,7 +11,7 @@ brew install python pipenv
 brew upgrade python pipenv
 RScript setup.R
 pipenv install
-pipenv run jupyter notebook stories/election2020/2020.ipynb
+pipenv run jupyter notebook notebook.ipynb
 ```
 
 ## Additional steps for FiveThirtyEight Writers

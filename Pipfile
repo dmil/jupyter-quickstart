@@ -11,6 +11,8 @@ notebook = "*"
 pandas = "*"
 scikit-learn = "*"
 rpy2 = "*"
+tzlocal = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"

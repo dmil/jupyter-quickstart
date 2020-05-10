@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 jupyter = "*"
-notebook = "*"
 pandas = "*"
 scikit-learn = "*"
 rpy2 = "*"

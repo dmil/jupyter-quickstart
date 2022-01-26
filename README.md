@@ -9,18 +9,16 @@ https://nbviewer.jupyter.org/github/dmil/jupyter-quickstart/blob/master/notebook
 ## Requirements
 
 * Homebrew
-* Pipenv
+* Python 3
 
 ## Quickstart
 
 ```
 brew cask install r
 brew install libgit2 # for the R devtools package
-brew install python pipenv
-brew upgrade python pipenv
 RScript setup.R
-pipenv install
-pipenv run jupyter notebook notebook.ipynb
+pip3 install -r requirements.txt
+jupyter notebook notebook.ipynb
 ```
 
 ## Additional steps for FiveThirtyEight Writers

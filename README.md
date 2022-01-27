@@ -14,7 +14,7 @@ https://nbviewer.jupyter.org/github/dmil/jupyter-quickstart/blob/master/notebook
 ## Quickstart
 
 ```
-brew cask install r
+brew install r
 brew install libgit2 # for the R devtools package
 RScript setup.R
 pip3 install -r requirements.txt

@@ -15,7 +15,7 @@ https://nbviewer.jupyter.org/github/dmil/jupyter-quickstart/blob/master/notebook
 
 ```
 brew install r
-brew install libgit2 # for the R devtools package
+brew install libgit2
 RScript setup.R
 pip3 install -r requirements.txt
 jupyter notebook notebook.ipynb

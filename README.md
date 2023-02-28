@@ -13,7 +13,7 @@ https://nbviewer.jupyter.org/github/dmil/jupyter-quickstart/blob/master/notebook
 
 ## Quickstart
 
-1. Install some packages with HomeBrew
+1. Install some packages with [HomeBrew](https://brew.sh/)
 
     ```bash
     brew install r

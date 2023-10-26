@@ -6,6 +6,9 @@ A Jupyter notebook that mixes Python3 and R.
 
 https://nbviewer.jupyter.org/github/dmil/jupyter-quickstart/blob/master/notebook.ipynb
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/dmil/jupyter-quickstart)
+
+
 ## Requirements
 
 * Homebrew
